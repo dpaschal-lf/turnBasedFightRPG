@@ -5,8 +5,8 @@ var game;
 function initializeApp(){
 	game = new RPG();
 
-	game.createCharacter('Matt','Ranger');
-	game.createCharacter('Howard','Bard');
+	game.createCharacter('Kelsey','Merchant');
+	game.createCharacter('Brian','Slave');
 }
 
 
